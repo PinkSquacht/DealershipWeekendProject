@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://imekhuxc:ms0U5-3VspbjdSkFaRtgbL8KD8N2xVGv@bubble.db.elephantsql.com/imekhuxc",
+            "name": "DealershipDB"
+        }
+    ]
+}
